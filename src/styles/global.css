@@ -12,12 +12,10 @@ body {
   font-family: Inter, sans-serif;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
-  margin: auto;
-  padding: 20px;
   max-width: 65ch;
-  text-align: left;
   word-wrap: break-word;
   overflow-wrap: break-word;
   line-height: 2.5;
+  background-color: #001B26;
   color: #56B6C2;
 }
